@@ -10,3 +10,8 @@ class Chai:
     
     def add_sugar(self,amount):
         print("amount of suger added")
+
+
+my_tea = Chai(sweetness=4, milk_level=5)
+
+my_tea.add_sugar(7)
