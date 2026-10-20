@@ -16,5 +16,6 @@ def generate_report():
     summarize_data()
     print("Report is ready")
 
-
 generate_report()
+
+print(generate_report())
