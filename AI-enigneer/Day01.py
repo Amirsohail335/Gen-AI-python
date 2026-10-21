@@ -10,11 +10,11 @@
 
 
 
-# attempt = 0
+attempt = 0
 
-# while attempt < 3:
-#     print("Attempt:", attempt + 1)
-#     attempt += 1
+while attempt < 3:
+    print("Attempt:", attempt + 1)
+    attempt += 1
 
 
 def analyze_skills(
