@@ -3,10 +3,10 @@
 # print("I will build, test, and explain real systems.")
 
 
-# def multiply(a: int, b: int) -> int:
-#     return a * b
+def multiply(a: int, b: int) -> int:
+    return a * b
 
-# print(multiply("ha", 3))
+print(multiply("ha", 3))
 
 
 
