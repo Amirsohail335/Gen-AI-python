@@ -1,6 +1,6 @@
 # print("I am learning AI engineering.")
 # print("Python is my foundation.")
-# print("I will build, test, and explain real systems.")
+print("I will build, test, and explain real systems.")
 
 
 def multiply(a: int, b: int) -> int:
