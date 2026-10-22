@@ -1,5 +1,5 @@
-# print("I am learning AI engineering.")
-# print("Python is my foundation.")
+print("I am learning AI engineering.")
+print("Python is my foundation.")
 print("I will build, test, and explain real systems.")
 
 
