@@ -2,7 +2,7 @@
 def multiply(a: int, b: int) -> int:
     return a * b
 
-print(multiply("ha", 3))
+print(multiply("hii", 3))
 
 
 
