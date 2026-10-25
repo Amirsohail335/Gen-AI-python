@@ -46,7 +46,7 @@ def main() -> None:
         "FastAPI",
         "RAG",
         "LangGraph",
-        "SQL",
+        
     ]
 
     existing = [
