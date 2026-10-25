@@ -53,7 +53,7 @@ def main() -> None:
         "python",
         "FastAPI",
         "React",
-        "Node.js",
+        
     ]
 
     result = analyze_skills(required, existing)
