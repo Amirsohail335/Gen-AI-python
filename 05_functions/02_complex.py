@@ -14,7 +14,7 @@ def generate_report():
     fetch_sales()
     filter_valid_sales()
     summarize_data()
-    print("Report is ready for")
+    print("Report is ready for commit")
 
 generate_report()
 
